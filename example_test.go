@@ -1,4 +1,4 @@
-package commonexit_test
+package CommonExit_test
 
 import (
 	"errors"
